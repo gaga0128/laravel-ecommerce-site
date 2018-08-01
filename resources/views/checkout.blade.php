@@ -138,7 +138,7 @@
                             <hr>
                             New Subtotal <br>
                         @endif
-                        Tax ({{config('cart.tax')}}%)<br>
+                        Tax (13%)<br>
                         <span class="checkout-totals-total">Total</span>
 
                     </div>
